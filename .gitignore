@@ -1,3 +1,5 @@
 build/
 *.txt
 *.log
+*.o
+temp/

@@ -1,7 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;    
 int main(){
-    cout<<"hello world"<<endl;
+    for(int i = 0; i < 10000; i++) {
+        cout<<i<<'\n';
+    }
     return 0;
 }
 // g++ -o hello hello.cpp -std=c++14
